@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- হোম পেজ -->
+  <url>
+    <loc>https://afdasfsafsafa.github.io/Bairagi_bazar_forest_office-/</loc>
+    <lastmod>2025-10-08</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+
+  <!-- About পেজ -->
+  <url>
+    <loc>https://afdasfsafsafa.github.io/Bairagi_bazar_forest_office-/about.html</loc>
+    <lastmod>2025-10-08</lastmod>
+    <changefreq>monthly</changefreq>
+  </url>
+
+  <!-- Contact পেজ -->
+  <url>
+    <loc>https://afdasfsafsafa.github.io/Bairagi_bazar_forest_office-/contact.html</loc>
+    <lastmod>2025-10-08</lastmod>
+    <changefreq>monthly</changefreq>
+  </url>
+
+  <!-- Services পেজ -->
+  <url>
+    <loc>https://afdasfsafsafa.github.io/Bairagi_bazar_forest_office-/services.html</loc>
+    <lastmod>2025-10-08</lastmod>
+    <changefreq>monthly</changefreq>
+  </url>
+
+</urlset>
